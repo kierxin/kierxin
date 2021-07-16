@@ -5,11 +5,11 @@
 (will insert links)
 
 ## My Projects
-#### Project 1
+### Project 1
 Description
 
 
-#### Project 2
+### Project 2
 Description
 
 
