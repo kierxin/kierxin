@@ -2,7 +2,7 @@
 ### I'm Kira. I will write more here later!
 
 ## Where to Find Me
-(will insert links)
+(will insert links)  - Portfolio, AngelList, LinkedIn
 
 ## My Projects
 ### Project 1
