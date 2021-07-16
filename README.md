@@ -6,11 +6,12 @@
 
 ## My Projects
 ### Project 1
-Description
-
+Live Demo   GitHub Repo
+Brief Descrip
 
 ### Project 2
-Description
+Live Demo   GitHub Repo
+Brief Descrip
 
 
 
