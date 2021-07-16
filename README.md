@@ -1,5 +1,5 @@
 ## Hello! 😎
-### I'm Kira.
+### I'm Kira. I will write more here later!
 
 ## Where to Find Me
 (will insert links)
