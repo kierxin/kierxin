@@ -1,7 +1,4 @@
-[![Website Badge](https://img.shields.io/badge/-kira_porter_com-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
-[![AngelList Badge](https://img.shields.io/badge/-insert_here-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
-[![Linkedin Badge](https://img.shields.io/badge/-kiraporter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
-[![Gmail Badge](https://img.shields.io/badge/-kierxin@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kierxin@gmail.com)](mailto:mail@kierxin@gmail.com) (links to be added)
+
 
 ## Hello! 😎 Thanks for stopping by!
 
@@ -21,6 +18,10 @@
 * ``` javascript
   let otherInterests = ["dancing 💃", "hiking 🌲", "writing ✍", "food 🌮🍣🍄🥗🍜🧀"]
   ```
+* ` Find me at:`  [![Website Badge](https://img.shields.io/badge/-kira_porter_com-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
+[![AngelList Badge](https://img.shields.io/badge/-kira's_angel-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
+[![Linkedin Badge](https://img.shields.io/badge/-kiraporter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
+[![Gmail Badge](https://img.shields.io/badge/-kierxin@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kierxin@gmail.com)](mailto:mail@kierxin@gmail.com) ` (links to be added) `
 
 ***
 
@@ -32,10 +33,3 @@
 
 ### Project 2: [Live Demo](https://github.com/kierxin "https://github.com/kierxin"), [Repo](https://github.com/kierxin "https://github.com/kierxin")
 > Descrip
-
-***
-  
-[![Website Badge](https://img.shields.io/badge/-kira_porter_com-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
-[![AngelList Badge](https://img.shields.io/badge/-insert_here-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
-[![Linkedin Badge](https://img.shields.io/badge/-kiraporter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
-[![Gmail Badge](https://img.shields.io/badge/-kierxin@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kierxin@gmail.com)](mailto:mail@kierxin@gmail.com)
