@@ -1,6 +1,6 @@
 ## Hello! 😎
 ### I'm Kira (and all links below currently point to my profile)
-Find Me At: [My Portfolio](https://github.com/kierxin "Kira's portfolio"), [AngelList](https://github.com/kierxin "Kira's AngelList profile"), [LinkedIn](https://github.com/kierxin "Kira's LinkedIn profile"), [Email](kierxin@gmail.com "kierxin@gmail.com")
+#### Find Me At: [My Portfolio](https://github.com/kierxin "Kira's portfolio"), [AngelList](https://github.com/kierxin "Kira's AngelList profile"), [LinkedIn](https://github.com/kierxin "Kira's LinkedIn profile"), [Email](kierxin@gmail.com "kierxin@gmail.com")
 
 ***
 
