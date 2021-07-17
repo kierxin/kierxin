@@ -1,17 +1,19 @@
 ## Hello! 😎
 ### I'm Kira. I will write more here later!
 
-## Where to Find Me
-(will insert links)  - Portfolio, AngelList, LinkedIn
+* Portfolio:
+* AngelList: 
+* LinkedIn:
+* Email:
 
 ## My Projects
 ### Project 1
 Live Demo   GitHub Repo
-Brief Descrip
+> Brief Descrip
 
 ### Project 2
 Live Demo   GitHub Repo
-Brief Descrip
+> Brief Descrip
 
 
 
