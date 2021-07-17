@@ -20,8 +20,8 @@
 * ```sql
   SELECT opportunity FROM jobs WHERE location IN ('NYC', 'Boston', 'Philly')
   ```
-* ``` javascript
-  let otherInterests = ["dancing 💃", "hiking 🌲", "writing ✍", "food 🌮🍣🍄🥗🍜🧀"]
+* ``` ruby
+  otherInterests = ["dancing 💃", "hiking 🌲", "writing ✍", "food 🌮🍣🍄🥗🍜🧀"]
   ```
 
 
