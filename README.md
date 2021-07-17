@@ -1,28 +1,26 @@
-![Kira's profile banner](https://i.imgur.com/PNXeZaV.png)
+[![Website Badge](https://img.shields.io/badge/-kira_porter_com-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
+[![AngelList Badge](https://img.shields.io/badge/-insert_here-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
+[![Linkedin Badge](https://img.shields.io/badge/-kiraporter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
+[![Gmail Badge](https://img.shields.io/badge/-kierxin@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kierxin@gmail.com)](mailto:mail@kierxin@gmail.com)
 
-#### Hello! 😎 Thanks for stopping by! I'm Kira and I'll be adding more to this profile later. 
-<details>
-<summary>About Me</summary>
+## Hello! 😎 Thanks for stopping by!
+
+#### A bit about Kira...
   
 * ```ruby
   education = {
-    undergrad: { "UMass Amherst" => 
+    undergrad: { "UMass Amherst 🎓" => 
         ["BBA Operations Management", "Sep 2017 - May 2021"] },
-    coding: { "App Academy" => 
+    coding: { "App Academy 💻" => 
         ["SWE Full Stack Bootcamp", "Jun 2021 - Oct 2021"] }
   }
   ```
 * ```sql
-  SELECT opportunity FROM jobs WHERE location IN('Boston', 'NYC', 'Philly', 'Bay Area') 🚘
+  SELECT opportunity FROM jobs WHERE location IN ('Boston', 'NYC', 'Philly', 'DC', 'Bay Area')
   ```
 * ``` javascript
   let otherInterests = ["dancing 💃", "hiking 🌲", "writing ✍", "food 🌮🍣🍄🥗🍜🧀"]
   ```
-</details>
-
-#### All of the links below currently point back to my GitHub profile.
-#### [My Portfolio](https://github.com/kierxin "Kira's portfolio"), [AngelList](https://github.com/kierxin "Kira's AngelList profile"), [LinkedIn](https://github.com/kierxin "Kira's LinkedIn profile"), [Email](kierxin@gmail.com "kierxin@gmail.com")
-
 
 ***
 
@@ -30,24 +28,14 @@
 
 ### Project 1: [Live Demo](https://github.com/kierxin "https://github.com/kierxin"), [Repo](https://github.com/kierxin "https://github.com/kierxin")
 
-> Brief Descrip  
+> Descrip  
 
 ### Project 2: [Live Demo](https://github.com/kierxin "https://github.com/kierxin"), [Repo](https://github.com/kierxin "https://github.com/kierxin")
-> Brief Descrip
+> Descrip
 
-
-
-<!--
-**kierxin/kierxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+  
+[![Website Badge](https://img.shields.io/badge/-kira_porter_com-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
+[![AngelList Badge](https://img.shields.io/badge/-insert_here-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
+[![Linkedin Badge](https://img.shields.io/badge/-kiraporter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
+[![Gmail Badge](https://img.shields.io/badge/-kierxin@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kierxin@gmail.com)](mailto:mail@kierxin@gmail.com)
