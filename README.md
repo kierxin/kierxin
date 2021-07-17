@@ -2,7 +2,7 @@
 
 #### Hello! 😎 Thanks for stopping by! I'm Kira and I'll be adding more to this profile later. 
 <details>
-<summary>"About Me"</summary>
+<summary>About Me</summary>
   
 * ```ruby
   education = {
