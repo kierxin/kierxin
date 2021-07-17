@@ -1,18 +1,16 @@
 ## Hello! 😎
-### I'm Kira. I will write more here later!
+### I'm Kira (and all links below currently point to my profile)
+Find Me At: [My Portfolio](https://github.com/kierxin "Kira's portfolio"), [AngelList](https://github.com/kierxin "Kira's AngelList profile"), [LinkedIn](https://github.com/kierxin "Kira's LinkedIn profile"), [Email](kierxin@gmail.com "kierxin@gmail.com")
 
-* Portfolio:
-* AngelList: 
-* LinkedIn:
-* Email:
+***
 
-## My Projects
-### Project 1
-Live Demo   GitHub Repo
-> Brief Descrip
+## My Projects  
 
-### Project 2
-Live Demo   GitHub Repo
+### Project 1: [Live Demo](https://github.com/kierxin "https://github.com/kierxin"), [Repo](https://github.com/kierxin "https://github.com/kierxin")
+
+> Brief Descrip  
+
+### Project 2: [Live Demo](https://github.com/kierxin "https://github.com/kierxin"), [Repo](https://github.com/kierxin "https://github.com/kierxin")
 > Brief Descrip
 
 
