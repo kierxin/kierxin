@@ -7,7 +7,7 @@
 
 ## Hello! 😎 Thanks for stopping by!
 
-#### A bit about me...
+#### I'm Kira. A bit about me...
   
 * ```ruby
   education = {
