@@ -11,10 +11,10 @@
   
 * ```ruby
   education = {
-    undergrad: { "UMass Amherst 🎓" => 
-        ["BBA Operations Management", "Sep 2017 - May 2021"] },
     coding: { "App Academy 💻" => 
-        ["SWE Full Stack Bootcamp", "Jun 2021 - Oct 2021"] }
+        ["SWE Full Stack Bootcamp", "Jun 2021 - Oct 2021"] },
+    undergrad: { "UMass Amherst 🎓" => 
+        ["BBA Operations Management", "Sep 2017 - May 2021"] }
   }
   ```
 * ```sql
