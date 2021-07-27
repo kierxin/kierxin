@@ -18,7 +18,7 @@
   }
   ```
 * ```sql
-  SELECT opportunity FROM jobs WHERE location IN ('NYC', 'Boston', 'Philly')
+  SELECT opportunity FROM jobs WHERE location IN ('NYC', 'Boston', 'Philly', 'Bay Area')
   ```
 * ``` javascript
   let otherInterests = ["dancing 💃", "hiking 🌲", "writing ✍", "food 🌮🍣🍄🥗🍜🧀"]
