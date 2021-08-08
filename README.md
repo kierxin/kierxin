@@ -23,7 +23,7 @@
     WHERE location IN ('NYC', 'Boston', 'Philly', 'Bay Area');
   ```
 * ``` javascript
-  const otherInterests = ["dancing 💃", "hiking 🌲", "writing ✍", "food 🌮🍣🍄🥗🍜🧀"]
+  const otherInterests = ["dancing 💃", "hiking 🌲", "writing ✍", "food 🌮🍣🍄🥗🍜🧀"];
   ```
 
 
