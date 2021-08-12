@@ -29,7 +29,7 @@
 
 ## My Projects  
 
-### Project 1: [Live Demo](https://github.com/kierxin "https://github.com/kierxin"), [Repo](https://github.com/kierxin "https://github.com/kierxin")
+### The Coolony Game: [Live Demo](https://github.com/kierxin "https://github.com/kierxin"), [Repo](https://github.com/kierxin/The-Coolony-Game "https://github.com/kierxin/The-Coolony-Game")
 
 > Descrip  
 
