@@ -29,7 +29,7 @@
 
 ## My Projects  
 
-### The Coolony Game: [Live Demo](kierxin.github.io/The-Coolony-Game/ "https://kierxin.github.io/The-Coolony-Game/"), [Repo](https://github.com/kierxin/The-Coolony-Game "https://github.com/kierxin/The-Coolony-Game")
+### The Coolony Game: [Live Demo](https://kierxin.github.io/The-Coolony-Game/ "https://kierxin.github.io/The-Coolony-Game/"), [Repo](https://github.com/kierxin/The-Coolony-Game "https://github.com/kierxin/The-Coolony-Game")
 
 > The project is now live at https://kierxin.github.io/The-Coolony-Game/ 😋  
 
