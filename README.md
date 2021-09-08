@@ -1,6 +1,6 @@
 [![Website Badge](https://img.shields.io/badge/-kira_porter_com-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
-[![AngelList Badge](https://img.shields.io/badge/-kira's_angel-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
-[![Linkedin Badge](https://img.shields.io/badge/-kiraporter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/kierxin)](https://github.com/kierxin)
+[![AngelList Badge](https://img.shields.io/badge/-kira's_angel-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://github.com/kierxin)](https://angel.co/u/keeruh)
+[![Linkedin Badge](https://img.shields.io/badge/-kiraporter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/kierxin)](linked.com/in/kiraporter)
 [![Gmail Badge](https://img.shields.io/badge/-kierxin@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kierxin@gmail.com)](mailto:mail@kierxin@gmail.com)
 
 ***
