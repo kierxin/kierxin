@@ -34,7 +34,7 @@
 > Ant-themed, idle-clicker-esque game built with vanilla JavaScript
 
 ### Wonday: [Live Demo](https://wonday-clone-of-monday.herokuapp.com/#/ "https://wonday-clone-of-monday.herokuapp.com/#/"), [Repo](https://github.com/kierxin/Wonday "https://github.com/kierxin/Wonday")
-> A fullstack clone of Monday.com; Ruby on Rails, React.js
+> Fullstack clone of Monday.com; Ruby on Rails, React.js
 
 ### Home Sweet Woof: [Live Demo](https://homesweetwoof.herokuapp.com/#/ "https://homesweetwoof.herokuapp.com/#/"), [Repo](https://github.com/alexsaintlam/AdoptADog "https://github.com/alexsaintlam/AdoptADog")
 > Group MERN stack project; web app connecting potential adopters with dogs in need of a new home
