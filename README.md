@@ -33,8 +33,6 @@
 
 > Ant-themed, idle-clicker-esque game built with vanilla JavaScript
 
-> I wrote some more about this at the project repo's [Wiki](https://github.com/kierxin/The-Coolony-Game/wiki/Wiki).
-
 ### Wonday: [Live Demo](https://wonday-clone-of-monday.herokuapp.com/#/ "https://wonday-clone-of-monday.herokuapp.com/#/"), [Repo](https://github.com/kierxin/Wonday "https://github.com/kierxin/Wonday")
 > A fullstack clone of Monday.com; Ruby on Rails, React.js
 
