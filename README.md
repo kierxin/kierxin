@@ -31,12 +31,12 @@
 
 ### The Coolony Game: [Live Demo](https://kierxin.github.io/The-Coolony-Game/ "https://kierxin.github.io/The-Coolony-Game/"), [Repo](https://github.com/kierxin/The-Coolony-Game "https://github.com/kierxin/The-Coolony-Game")
 
-> Built with vanilla JS, HTML, and SCSS, this is an ant-themed, idle-clicker-esque game that I built for the week-long JavaScript Project for App Academy. It's a front-end app where the user delegates tasks to the ants in the colony, gathering resources and discovering more tunnels, while ensuring that their ants don't starve. 
+> Ant-themed, idle-clicker-esque game built with vanilla JavaScript
 
 > I wrote some more about this at the project repo's [Wiki](https://github.com/kierxin/The-Coolony-Game/wiki/Wiki).
 
 ### Wonday: [Live Demo](https://wonday-clone-of-monday.herokuapp.com/#/ "https://wonday-clone-of-monday.herokuapp.com/#/"), [Repo](https://github.com/kierxin/Wonday "https://github.com/kierxin/Wonday")
-> A fullstack clone of Monday.com
+> A fullstack clone of Monday.com; Ruby on Rails, React.js
 
 ### Home Sweet Woof: [Live Demo](https://homesweetwoof.herokuapp.com/#/ "https://homesweetwoof.herokuapp.com/#/"), [Repo](https://github.com/alexsaintlam/AdoptADog "https://github.com/alexsaintlam/AdoptADog")
 > Group MERN stack project; web app connecting potential adopters with dogs in need of a new home
