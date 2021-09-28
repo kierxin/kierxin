@@ -29,12 +29,12 @@
 
 ## My Projects  
 
-### The Coolony Game: [Live Demo](https://kierxin.github.io/The-Coolony-Game/ "https://kierxin.github.io/The-Coolony-Game/"), [Repo](https://github.com/kierxin/The-Coolony-Game "https://github.com/kierxin/The-Coolony-Game")
-
-> Ant-themed, idle-clicker-esque game built with vanilla JavaScript
-
 ### Wonday: [Live Demo](https://wonday-clone-of-monday.herokuapp.com/#/ "https://wonday-clone-of-monday.herokuapp.com/#/"), [Repo](https://github.com/kierxin/Wonday "https://github.com/kierxin/Wonday")
-> Fullstack clone of Monday.com built with Ruby on Rails, React.js, and Redux
+> Full-stack clone of Monday.com built with Ruby on Rails, React.js, and Redux
 
 ### Home Sweet Woof: [Live Demo](https://homesweetwoof.herokuapp.com/#/ "https://homesweetwoof.herokuapp.com/#/"), [Repo](https://github.com/alexsaintlam/AdoptADog "https://github.com/alexsaintlam/AdoptADog")
 > Group MERN stack project; web app connecting potential adopters with dogs in need of a new home
+
+### The Coolony Game: [Live Demo](https://kierxin.github.io/The-Coolony-Game/ "https://kierxin.github.io/The-Coolony-Game/"), [Repo](https://github.com/kierxin/The-Coolony-Game "https://github.com/kierxin/The-Coolony-Game")
+
+> Ant-themed, idle-clicker-esque game built with vanilla JavaScript
