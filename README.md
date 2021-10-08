@@ -1,6 +1,6 @@
-[![Website Badge](https://img.shields.io/badge/-kira's_portfolio-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://kierxin.github.io/Kira-Porter-Portfolio/)](https://kierxin.github.io/Kira-Porter-Portfolio/)
-[![AngelList Badge](https://img.shields.io/badge/-kira's_angellist-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/keeruh)](https://angel.co/u/keeruh)
-[![Linkedin Badge](https://img.shields.io/badge/-kiraporter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiraporter)](https://www.linkedin.com/in/kiraporter)
+[![Website Badge](https://img.shields.io/badge/-Kira's_Portfolio-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://kierxin.github.io/Kira-Porter-Portfolio/)](https://kierxin.github.io/Kira-Porter-Portfolio/)
+[![AngelList Badge](https://img.shields.io/badge/-AngelList-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/keeruh)](https://angel.co/u/keeruh)
+[![Linkedin Badge](https://img.shields.io/badge/-Kira_Porter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiraporter)](https://www.linkedin.com/in/kiraporter)
 [![Gmail Badge](https://img.shields.io/badge/-kierxin@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kierxin@gmail.com)](mailto:mail@kierxin@gmail.com)
 
 ***
@@ -38,3 +38,12 @@
 ### The Coolony Game: [Live Demo](https://kierxin.github.io/The-Coolony-Game/ "https://kierxin.github.io/The-Coolony-Game/"), [Repo](https://github.com/kierxin/The-Coolony-Game "https://github.com/kierxin/The-Coolony-Game")
 
 > Ant-themed, idle-clicker-esque game built with vanilla JavaScript
+
+***
+
+#### Contact Info
+
+[![Website Badge](https://img.shields.io/badge/-Kira's_Portfolio-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://kierxin.github.io/Kira-Porter-Portfolio/)](https://kierxin.github.io/Kira-Porter-Portfolio/)
+[![AngelList Badge](https://img.shields.io/badge/-AngelList-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/keeruh)](https://angel.co/u/keeruh)
+[![Linkedin Badge](https://img.shields.io/badge/-Kira_Porter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiraporter)](https://www.linkedin.com/in/kiraporter)
+[![Gmail Badge](https://img.shields.io/badge/-kierxin@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kierxin@gmail.com)](mailto:mail@kierxin@gmail.com)
