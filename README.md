@@ -20,7 +20,7 @@
 * ```sql
   SELECT opportunity
     FROM jobs 
-    WHERE location IN ('NYC', 'Boston', 'Philly', 'Bay Area');
+    WHERE location IN ('NYC', 'Boston', 'Philly', 'Bay Area', 'Remote');
   ```
 * ``` javascript
   const otherInterests = ["dancing 💃", "hiking 🌲", "writing ✍", "food 🌮🍣🍄🥗🍜🧀"];
