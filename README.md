@@ -41,7 +41,7 @@
 
 ***
 
-#### Contact Info
+## Contact Me ✌
 
 [![Website Badge](https://img.shields.io/badge/-Kira's_Portfolio-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://kierxin.github.io/Kira-Porter-Portfolio/)](https://kierxin.github.io/Kira-Porter-Portfolio/)
 [![AngelList Badge](https://img.shields.io/badge/-AngelList-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/keeruh)](https://angel.co/u/keeruh)
