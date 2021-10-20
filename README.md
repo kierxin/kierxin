@@ -41,9 +41,12 @@
 
 ***
 
-## Contact Me ✌
+## More Ways to Reach Me 😁
 
-[![Website Badge](https://img.shields.io/badge/-Kira's_Portfolio-e34f26?style=flat-square&logo=Portfolio&logoColor=white&link=https://kierxin.github.io/Kira-Porter-Portfolio/)](https://kierxin.github.io/Kira-Porter-Portfolio/)
-[![AngelList Badge](https://img.shields.io/badge/-AngelList-e4405f?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/keeruh)](https://angel.co/u/keeruh)
-[![Linkedin Badge](https://img.shields.io/badge/-Kira_Porter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kiraporter)](https://www.linkedin.com/in/kiraporter)
-[![Gmail Badge](https://img.shields.io/badge/-kierxin@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kierxin@gmail.com)](mailto:mail@kierxin@gmail.com)
+📧 Email: [kierxin@gmail.com](mailto:mail@kierxin@gmail.com)
+
+🟦 LinkedIn: [linkedin.com/in/kiraporter](https://www.linkedin.com/in/kiraporter)
+
+✌ AngelList: [angel.co/u/keeruh](https://angel.co/u/keeruh)
+
+💻 Portfolio: [kierxin.github.io/Kira-Porter-Portfolio](https://kierxin.github.io/Kira-Porter-Portfolio/)
