@@ -10,11 +10,6 @@
         ["BBA Operations and Information Management", "Sep 2017 - May 2021"] }
   }
   ```
-* ```sql
-  SELECT opportunity
-    FROM jobs 
-    WHERE location IN ('NYC', 'Boston', 'Philly', 'Bay Area', 'Remote');
-  ```
 * ``` javascript
   const otherInterests = ["dancing 💃", "hiking 🌲", "writing ✍", "food 🌮🍣🍄🥗🍜🧀"];
   ```
@@ -41,5 +36,3 @@
 🟦 LinkedIn: [linkedin.com/in/kiraporter](https://www.linkedin.com/in/kiraporter)
 
 ✌ AngelList: [angel.co/u/keeruh](https://angel.co/u/keeruh)
-
-💻 Portfolio: [kierxin.github.io/Kira-Porter-Portfolio](https://kierxin.github.io/Kira-Porter-Portfolio/)
