@@ -1,4 +1,4 @@
-## Hello! 😎 Thanks for stopping by!
+## Hello! ☀️ Thanks for stopping by!
 
 #### I'm Kira. A bit about me...
   
