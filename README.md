@@ -34,5 +34,3 @@
 📧 Email: [kierxin@gmail.com](mailto:mail@kierxin@gmail.com)
 
 🟦 LinkedIn: [linkedin.com/in/kiraporter](https://www.linkedin.com/in/kiraporter)
-
-✌ AngelList: [angel.co/u/keeruh](https://angel.co/u/keeruh)
