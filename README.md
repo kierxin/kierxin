@@ -17,10 +17,10 @@
 
 ## My Projects  
 
-### Wonday: [Live Demo](https://wonday-clone-of-monday.herokuapp.com/#/ "https://wonday-clone-of-monday.herokuapp.com/#/"), [Repo](https://github.com/kierxin/Wonday "https://github.com/kierxin/Wonday")
+### Wonday: [Repo](https://github.com/kierxin/Wonday "https://github.com/kierxin/Wonday")
 > Full-stack clone of Monday.com built with JavaScript (ES6, React, Redux) and Rails.
 
-### Home Sweet Woof: [Live Demo](https://homesweetwoof.herokuapp.com/#/ "https://homesweetwoof.herokuapp.com/#/"), [Repo](https://github.com/alexsaintlam/AdoptADog "https://github.com/alexsaintlam/AdoptADog")
+### Home Sweet Woof: [Repo](https://github.com/alexsaintlam/AdoptADog "https://github.com/alexsaintlam/AdoptADog")
 > Group MERN stack project; web app connecting potential adopters with dogs in need of a new home
 
 ### The Coolony Game: [Live Demo](https://kierxin.github.io/The-Coolony-Game/ "https://kierxin.github.io/The-Coolony-Game/"), [Repo](https://github.com/kierxin/The-Coolony-Game "https://github.com/kierxin/The-Coolony-Game")
