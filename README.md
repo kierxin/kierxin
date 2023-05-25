@@ -17,7 +17,7 @@
 
 ## My Projects  
 
-### Transporter Publishing: [Live Demo](transporterpublishing.com/preview "transporterpublishing.com/preview")
+### Transporter Publishing: [Live Demo](https://transporterpublishing.com/preview "transporterpublishing.com/preview")
 > My latest project (actively working on this) \
 > Sveltekit / Prisma (Postgres) web app deployed with Vercel \
 > Session-based authentication, CRUD functionality \
