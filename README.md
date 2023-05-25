@@ -18,9 +18,9 @@
 ## My Projects  
 
 ### Transporter Publishing: [Live Demo](transporterpublishing.com/preview)
-> My latest project (actively working on this)
-> Sveltekit / Prisma (Postgres) web app deployed with Vercel
-> Session-based authentication, CRUD functionality
+> My latest project (actively working on this) \
+> Sveltekit / Prisma (Postgres) web app deployed with Vercel \
+> Session-based authentication, CRUD functionality \
 > To check it out, use login credentials - username: `test`, password: `user`
 
 ### Wonday: [Repo](https://github.com/kierxin/Wonday "https://github.com/kierxin/Wonday")
