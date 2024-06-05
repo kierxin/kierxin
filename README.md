@@ -11,5 +11,5 @@
   }
   ```
 * ``` javascript
-  const otherInterests = ["dancing 💃", "running 🏃‍♀️", "hiking 🌲", "cycling 🚴‍♀️", "writing ✍️", "food 🌮🍣🍄🥗🍜🧀"];
+  const otherInterests = ["dancing 💃", "running 🏃‍♀️", "hiking 🌲", "cycling 🚴‍♀️", "food 🌮🍣🍄🥗🍜🧀", "writing ✍️"];
   ```
