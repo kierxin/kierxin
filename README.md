@@ -12,6 +12,12 @@
   ```
 * ``` javascript
   const otherInterests = [
-     "dancing 💃", "running 🏃‍♀️", "hiking 🌲", "cycling 🚴‍♀️", "writing ✍️", "food 🌮🍣🍄🥗🍜🧀"
+      "running 🏃‍♀️", // LA Marathon
+      "dancing 💃", // swing 
+      "hiking 🌲",
+      "painting 🎨", // oil
+      "cycling 🚴‍♀️",
+      "writing ✍️", // fiction (fantasy, sci-fi)
+      "food 🌮🍣🍄🥗🍜🧀" // pescatarian
   ];
   ```
