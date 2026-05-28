@@ -12,7 +12,7 @@
   ```
 * ``` javascript
   const otherInterests = [
-      "running 🏃‍♀️", // LA Marathon
+      "running 🏃‍♀️", // marathon/distance running
       "dancing 💃", // swing 
       "hiking 🌲",
       "painting 🎨", // oil
